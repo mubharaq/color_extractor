@@ -1,17 +1,21 @@
 name: color_extractor
-description: A Very Good Project created by Very Good CLI.
-version: 0.1.0+1
+description: A Flutter package to extract colors from images.
+version: 1.0.0+1
+homepage: https://github.com/mubharaq/color_extractor
+documentation: https://github.com/mubharaq/color_extractor/blob/main/README.md
+repository: https://github.com/mubharaq/color_extractor.git
 publish_to: none
 
 environment:
   sdk: ^3.5.0
-  flutter: ^3.24.0
+  flutter: ">=3.24.0"
 
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.4.0  
   image: ^4.5.4
-  http: ^1.4.0
+  
 
 dev_dependencies:
   flutter_test:
