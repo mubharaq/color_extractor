@@ -2,9 +2,9 @@ import 'dart:math';
 import 'dart:typed_data';
 import 'dart:ui';
 
-import 'package:color_extractor/src/models/centroid.dart';
-import 'package:color_extractor/src/models/color_point.dart';
-import 'package:color_extractor/src/models/dominant_color.dart';
+import 'package:flutter_color_extractor/src/models/centroid.dart';
+import 'package:flutter_color_extractor/src/models/color_point.dart';
+import 'package:flutter_color_extractor/src/models/dominant_color.dart';
 import 'package:image/image.dart' as img;
 
 /// Extracts pixels and returns a list of ColorPoint objects.

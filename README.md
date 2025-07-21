@@ -1,4 +1,4 @@
-# Color Extractor
+# Flutter Color Extractor
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
@@ -8,12 +8,12 @@ A simple Flutter package for extracting the most dominant colors from images, wi
 
 ## Installation
 
-**❗ In order to start using Color Extractor you must have the [Flutter SDK][flutter_install_link] installed on your machine.**
+**❗ In order to start using Flutter Color Extractor you must have the [Flutter SDK][flutter_install_link] installed on your machine.**
 
 Install via `flutter pub add`:
 
 ```sh
-dart pub add color_extractor
+dart pub add flutter_color_extractor
 ```
 
 ---
@@ -32,7 +32,7 @@ dart pub add color_extractor
 Import the package:
 
 ```dart
-import 'package:color_extractor/color_extractor.dart';
+import 'package:flutter_color_extractor/flutter_color_extractor.dart';
 ```
 
 ### Extract from asset images

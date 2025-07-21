@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
-import 'package:color_extractor/color_extractor.dart';
+import 'package:flutter_color_extractor/flutter_color_extractor.dart';
 
 void main() {
   runApp(const MyApp());

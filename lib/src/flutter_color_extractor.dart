@@ -3,7 +3,7 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'dart:ui';
 
-import 'package:color_extractor/src/utils/utils.dart';
+import 'package:flutter_color_extractor/src/utils/utils.dart';
 import 'package:http/http.dart' as http;
 
 /// {@template color_extractor}

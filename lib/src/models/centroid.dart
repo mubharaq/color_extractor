@@ -1,4 +1,4 @@
-import 'package:color_extractor/src/models/color_point.dart';
+import 'package:flutter_color_extractor/src/models/color_point.dart';
 
 /// A centroid in 3D RGB color space.
 class Centroid {

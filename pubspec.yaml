@@ -1,9 +1,9 @@
-name: color_extractor
+name: flutter_color_extractor
 description: A Flutter package to extract colors from images.
 version: 1.0.0+1
-homepage: https://github.com/mubharaq/color_extractor
-documentation: https://github.com/mubharaq/color_extractor/blob/main/README.md
-repository: https://github.com/mubharaq/color_extractor.git
+homepage: https://github.com/mubharaq/flutter_color_extractor
+documentation: https://github.com/mubharaq/flutter_color_extractor.git/blob/main/README.md
+repository: https://github.com/mubharaq/flutter_color_extractor.git
 
 
 environment:
